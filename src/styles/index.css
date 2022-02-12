@@ -8,3 +8,7 @@
     float: right;
     margin-left: 12px !important;
 }
+
+.done {
+    color: green;
+}
